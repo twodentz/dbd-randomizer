@@ -29,7 +29,7 @@ This tool allows players to randomly generate Survivors or Killers along with un
   - Chapter information
 
 ### Design
-- Fully custom Dead by Daylight–inspired UI
+- Fully custom Dead by Daylight inspired UI
 - Subtle animations for characters and perks
 - Responsive layout for smaller screens
 - Tooltips for UI clarity
@@ -38,28 +38,13 @@ This tool allows players to randomly generate Survivors or Killers along with un
 
 ## Tech Stack
 
-- **HTML** – structure
-- **CSS** – styling, animations, theming
-- **JavaScript (Vanilla)** – logic and state management
+- **HTML** - structure
+- **CSS** - styling, animations, theming
+- **JavaScript (Vanilla)** - logic and state management
 
 ---
 
 ## Project Structure
-
-/
-├─ index.html
-├─ styles.css
-├─ script.js
-├─ data/
-│ ├─ survivors.js
-│ ├─ killers.js
-│ ├─ survivor-perks.js
-│ └─ killer-perks.js
-├─ images/
-│ ├─ survivors/
-│ ├─ killers/
-│ ├─ perks/
-│ └─ backgrounds/
 
 Large datasets are split into dedicated files for maintainability and sanity.
 
