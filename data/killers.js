@@ -4,7 +4,7 @@ const killers = [
     id: "theTrapper",
     name: "The Trapper",
     image: "images/killers/theTrapper.png",
-    chapter: "",
+    chapter: "Base Game",
     bio: "",
     legendary: false
   },
@@ -12,7 +12,7 @@ const killers = [
     id: "theKrampus",
     name: "The Krampus",
     image: "images/killers/theKrampus.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Trapper",
     bio: "",
     legendary: true
   },
@@ -20,7 +20,7 @@ const killers = [
     id: "naughtyBear",
     name: "Naughty Bear",
     image: "images/killers/naughtyBear.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Trapper",
     bio: "",
     legendary: true
   },
@@ -28,7 +28,7 @@ const killers = [
     id: "theWraith",
     name: "The Wraith",
     image: "images/killers/theWraith.png",
-    chapter: "",
+    chapter: "Base Game",
     bio: "",
     legendary: false
   },
@@ -36,7 +36,7 @@ const killers = [
     id: "theHillbilly",
     name: "The Hillbilly",
     image: "images/killers/theHillbilly.png",
-    chapter: "",
+    chapter: "Base Game",
     bio: "",
     legendary: false
   },
@@ -44,7 +44,7 @@ const killers = [
     id: "theNurse",
     name: "The Nurse",
     image: "images/killers/theNurse.png",
-    chapter: "",
+    chapter: "CHAPTER 1: The Last Breath Chapter",
     bio: "",
     legendary: false
   },
@@ -52,7 +52,7 @@ const killers = [
     id: "theShape",
     name: "The Shape",
     image: "images/killers/theShape.png",
-    chapter: "",
+    chapter: "CHAPTER 2: The HALLOWEEN® Chapter",
     bio: "",
     legendary: false
   },
@@ -60,7 +60,7 @@ const killers = [
     id: "theHag",
     name: "The Hag",
     image: "images/killers/theHag.png",
-    chapter: "",
+    chapter: "CHAPTER 3: Of Flesh and Mud",
     bio: "",
     legendary: false
   },
@@ -68,7 +68,7 @@ const killers = [
     id: "theDoctor",
     name: "The Doctor",
     image: "images/killers/theDoctor.png",
-    chapter: "",
+    chapter: "CHAPTER 4: Spark of Madness",
     bio: "",
     legendary: false
   },
@@ -76,7 +76,7 @@ const killers = [
     id: "theLookSee",
     name: "The Look-See",
     image: "images/killers/theLookSee.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Doctor",
     bio: "",
     legendary: true
   },
@@ -84,7 +84,7 @@ const killers = [
     id: "pharaohEddie",
     name: "Pharaoh Eddie",
     image: "images/killers/pharaohEddie.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Doctor",
     bio: "",
     legendary: true
   },
@@ -92,7 +92,7 @@ const killers = [
     id: "theHuntress",
     name: "The Huntress",
     image: "images/killers/theHuntress.png",
-    chapter: "",
+    chapter: "CHAPTER 5: A Lullaby for the Dark",
     bio: "",
     legendary: false
   },
@@ -100,7 +100,7 @@ const killers = [
     id: "theMordeo",
     name: "The Mordeo",
     image: "images/killers/theMordeo.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Huntress",
     bio: "",
     legendary: true
   },
@@ -108,7 +108,7 @@ const killers = [
     id: "theBabaYaga",
     name: "The Baba Yaga",
     image: "images/killers/theBabaYaga.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Huntress",
     bio: "",
     legendary: true
   },
@@ -116,7 +116,7 @@ const killers = [
     id: "theWereElk",
     name: "The Were-Elk",
     image: "images/killers/theWereElk.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Huntress",
     bio: "",
     legendary: true
   },
@@ -124,7 +124,7 @@ const killers = [
     id: "theCannibal",
     name: "The Cannibal",
     image: "images/killers/theCannibal.png",
-    chapter: "",
+    chapter: "CHAPTER 5.5: LEATHERFACE™",
     bio: "",
     legendary: false
   },
@@ -132,7 +132,7 @@ const killers = [
     id: "theNightmare",
     name: "The Nightmare",
     image: "images/killers/theNightmare.png",
-    chapter: "",
+    chapter: "CHAPTER 6: A Nightmare on Elm Street™",
     bio: "",
     legendary: false
   },
@@ -140,7 +140,7 @@ const killers = [
     id: "thePig",
     name: "The Pig",
     image: "images/killers/thePig.png",
-    chapter: "",
+    chapter: "CHAPTER 7: The SAW™ Chapter",
     bio: "",
     legendary: false
   },
@@ -148,7 +148,7 @@ const killers = [
     id: "theClown",
     name: "The Clown",
     image: "images/killers/theClown.png",
-    chapter: "",
+    chapter: "CHAPTER 8: Curtain Call",
     bio: "",
     legendary: false
   },
@@ -156,7 +156,7 @@ const killers = [
     id: "theSpirit",
     name: "The Spirit",
     image: "images/killers/theSpirit.png",
-    chapter: "",
+    chapter: "CHAPTER 9: Shattered Bloodline",
     bio: "",
     legendary: false
   },
@@ -164,7 +164,7 @@ const killers = [
     id: "theWarHammerTitan",
     name: "The War Hammer Titan",
     image: "images/killers/theWarHammerTitan.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Spirit",
     bio: "",
     legendary: true
   },
@@ -172,7 +172,7 @@ const killers = [
     id: "tomieKawakami",
     name: "Tomie Kawakami",
     image: "images/killers/tomieKawakami.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Spirit",
     bio: "",
     legendary: true
   },
@@ -180,7 +180,7 @@ const killers = [
     id: "theLegion",
     name: "The Legion",
     image: "images/killers/theLegion.png",
-    chapter: "",
+    chapter: "CHAPTER 10: Darkness Among Us",
     bio: "",
     legendary: false
   },
@@ -188,7 +188,7 @@ const killers = [
     id: "hunk",
     name: "HUNK",
     image: "images/killers/hunk.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Legion",
     bio: "",
     legendary: true
   },
@@ -196,7 +196,7 @@ const killers = [
     id: "thePlague",
     name: "The Plague",
     image: "images/killers/thePlague.png",
-    chapter: "",
+    chapter: "CHAPTER 11: Demise of the Faithful",
     bio: "",
     legendary: false
   },
@@ -204,7 +204,7 @@ const killers = [
     id: "theGhostFace",
     name: "The Ghost Face",
     image: "images/killers/theGhostFace.png",
-    chapter: "",
+    chapter: "CHAPTER 12: Ghost Face®",
     bio: "",
     legendary: false
   },
@@ -212,7 +212,7 @@ const killers = [
     id: "theDemogorgon",
     name: "The Demogorgon",
     image: "images/killers/theDemogorgon.png",
-    chapter: "",
+    chapter: "CHAPTER 13: Stranger Things",
     bio: "",
     legendary: false
   },
@@ -220,7 +220,7 @@ const killers = [
     id: "theOni",
     name: "The Oni",
     image: "images/killers/theOni.png",
-    chapter: "",
+    chapter: "CHAPTER 14: Cursed Legacy",
     bio: "",
     legendary: false
   },
@@ -228,7 +228,7 @@ const killers = [
     id: "theMinotaur",
     name: "The Minotaur",
     image: "images/killers/theMinotaur.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Oni",
     bio: "",
     legendary: true
   },
@@ -236,7 +236,7 @@ const killers = [
     id: "theArmouredTitan",
     name: "The Armoured Titan",
     image: "images/killers/theArmouredTitan.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Oni",
     bio: "",
     legendary: true
   },
@@ -244,7 +244,7 @@ const killers = [
     id: "samuraiEddie",
     name: "Samurai Eddie",
     image: "images/killers/samuraiEddie.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Oni",
     bio: "",
     legendary: true
   },
@@ -252,7 +252,7 @@ const killers = [
     id: "murderousGrizzly",
     name: "Murderous Grizzly",
     image: "images/killers/murderousGrizzly.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Oni",
     bio: "",
     legendary: true
   },
@@ -260,7 +260,7 @@ const killers = [
     id: "theDeathslinger",
     name: "The Deathslinger",
     image: "images/killers/theDeathslinger.png",
-    chapter: "",
+    chapter: "CHAPTER 15: Chains of Hate",
     bio: "",
     legendary: false
   },
@@ -268,7 +268,7 @@ const killers = [
     id: "strangerEddie",
     name: "Stranger Eddie",
     image: "images/killers/strangerEddie.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Deathslinger",
     bio: "",
     legendary: true
   },
@@ -276,7 +276,7 @@ const killers = [
     id: "theExecutioner",
     name: "The Executioner",
     image: "images/killers/theExecutioner.png",
-    chapter: "",
+    chapter: "CHAPTER 16: Silent Hill",
     bio: "",
     legendary: false
   },
@@ -284,7 +284,7 @@ const killers = [
     id: "theBlight",
     name: "The Blight",
     image: "images/killers/theBlight.png",
-    chapter: "",
+    chapter: "CHAPTER 17: Descend Beyond",
     bio: "",
     legendary: false
   },
@@ -292,7 +292,7 @@ const killers = [
     id: "theFerryman",
     name: "The Ferryman",
     image: "images/killers/theFerryman.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Blight",
     bio: "",
     legendary: true
   },
@@ -300,7 +300,7 @@ const killers = [
     id: "williamBirkin",
     name: "William Birkin",
     image: "images/killers/williamBirkin.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Blight",
     bio: "",
     legendary: true
   },
@@ -308,7 +308,7 @@ const killers = [
     id: "theTwins",
     name: "The Twins",
     image: "images/killers/theTwins.png",
-    chapter: "",
+    chapter: "CHAPTER 18: A Binding of Kin",
     bio: "",
     legendary: false
   },
@@ -316,7 +316,7 @@ const killers = [
     id: "theTrickster",
     name: "The Trickster",
     image: "images/killers/theTrickster.png",
-    chapter: "",
+    chapter: "CHAPTER 19: All-Kill",
     bio: "",
     legendary: false
   },
@@ -324,7 +324,7 @@ const killers = [
     id: "theNemesis",
     name: "The Nemesis",
     image: "images/killers/theNemesis.png",
-    chapter: "",
+    chapter: "CHAPTER 20: Resident Evil™",
     bio: "",
     legendary: false
   },
@@ -332,7 +332,7 @@ const killers = [
     id: "theCenobite",
     name: "The Cenobite",
     image: "images/killers/theCenobite.png",
-    chapter: "",
+    chapter: "CHAPTER 21: Hellraiser™",
     bio: "",
     legendary: false
   },
@@ -340,7 +340,7 @@ const killers = [
     id: "theChatterer",
     name: "The Chatterer",
     image: "images/killers/theChatterer.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Cenobite",
     bio: "",
     legendary: true
   },
@@ -348,7 +348,7 @@ const killers = [
     id: "theArtist",
     name: "The Artist",
     image: "images/killers/theArtist.png",
-    chapter: "",
+    chapter: "CHAPTER 22: Portrait of a Murder",
     bio: "",
     legendary: false
   },
@@ -356,7 +356,7 @@ const killers = [
     id: "theJabberwock",
     name: "The Jabberwock",
     image: "images/killers/theJabberwock.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Artist",
     bio: "",
     legendary: true
   },
@@ -364,7 +364,7 @@ const killers = [
     id: "missFuchi",
     name: "Miss Fuchi",
     image: "images/killers/missFuchi.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Artist",
     bio: "",
     legendary: true
   },
@@ -372,7 +372,7 @@ const killers = [
     id: "theLeshen",
     name: "The Leshen",
     image: "images/killers/theLeshen.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Artist",
     bio: "",
     legendary: true
   },
@@ -380,7 +380,7 @@ const killers = [
     id: "bouletArtist",
     name: "Boulet Artist",
     image: "images/killers/bouletArtist.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Artist",
     bio: "",
     legendary: true
   },
@@ -388,7 +388,7 @@ const killers = [
     id: "theOnryo",
     name: "The Onryō",
     image: "images/killers/theOnryo.png",
-    chapter: "",
+    chapter: "CHAPTER 23: Sadako Rising",
     bio: "",
     legendary: false
   },
@@ -396,7 +396,7 @@ const killers = [
     id: "theDredge",
     name: "The Dredge",
     image: "images/killers/theDredge.png",
-    chapter: "",
+    chapter: "CHAPTER 24: Roots of Dread",
     bio: "",
     legendary: false
   },
@@ -404,7 +404,7 @@ const killers = [
     id: "eddiesTribute",
     name: "Eddie's Tribute",
     image: "images/killers/eddiesTribute.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Dredge",
     bio: "",
     legendary: true
   },
@@ -412,7 +412,7 @@ const killers = [
     id: "halfSpiritsTorments",
     name: "Half Spirits' Torments",
     image: "images/killers/halfSpiritsTorments.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Dredge",
     bio: "",
     legendary: true
   },
@@ -420,7 +420,7 @@ const killers = [
     id: "theMastermind",
     name: "The Mastermind",
     image: "images/killers/theMastermind.png",
-    chapter: "",
+    chapter: "CHAPTER 25: Resident Evil™: PROJECT W",
     bio: "",
     legendary: false
   },
@@ -428,7 +428,7 @@ const killers = [
     id: "theKnight",
     name: "The Knight",
     image: "images/killers/theKnight.png",
-    chapter: "",
+    chapter: "CHAPTER 26: Forged in Fog",
     bio: "",
     legendary: false
   },
@@ -436,7 +436,7 @@ const killers = [
     id: "theDraugr",
     name: "The Draugr",
     image: "images/killers/theDraugr.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Knight",
     bio: "",
     legendary: true
   },
@@ -444,7 +444,7 @@ const killers = [
     id: "theSkullMerchant",
     name: "The Skull Merchant",
     image: "images/killers/theSkullMerchant.png",
-    chapter: "",
+    chapter: "CHAPTER 27: Tools of Torment",
     bio: "",
     legendary: false
   },
@@ -452,7 +452,7 @@ const killers = [
     id: "theSingularity",
     name: "The Singularity",
     image: "images/killers/theSingularity.png",
-    chapter: "",
+    chapter: "CHAPTER 28: End Transmission",
     bio: "",
     legendary: false
   },
@@ -460,7 +460,7 @@ const killers = [
     id: "theXenomorph",
     name: "The Xenomorph",
     image: "images/killers/theXenomorph.png",
-    chapter: "",
+    chapter: "CHAPTER 29: Alien",
     bio: "",
     legendary: false
   },
@@ -468,7 +468,7 @@ const killers = [
     id: "theXenomorphQueen",
     name: "The Xenomorph Queen",
     image: "images/killers/theXenomorphQueen.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Xenomorph",
     bio: "",
     legendary: true
   },
@@ -476,7 +476,7 @@ const killers = [
     id: "theGoodGuy",
     name: "The Good Guy",
     image: "images/killers/theGoodGuy.png",
-    chapter: "",
+    chapter: "CHAPTER 30: Chucky",
     bio: "",
     legendary: false
   },
@@ -484,7 +484,7 @@ const killers = [
     id: "theGoodGal",
     name: "The Good Gal",
     image: "images/killers/theGoodGal.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Good Guy",
     bio: "",
     legendary: true
   },
@@ -492,7 +492,7 @@ const killers = [
     id: "theUnknown",
     name: "The Unknown",
     image: "images/killers/theUnknown.png",
-    chapter: "",
+    chapter: "CHAPTER 31: All Things Wicked",
     bio: "",
     legendary: false
   },
@@ -500,7 +500,7 @@ const killers = [
     id: "theLich",
     name: "The Lich",
     image: "images/killers/theLich.png",
-    chapter: "",
+    chapter: "CHAPTER 32: Dungeons & Dragons",
     bio: "",
     legendary: false
   },
@@ -508,7 +508,7 @@ const killers = [
     id: "theDarkLord",
     name: "The Dark Lord",
     image: "images/killers/theDarkLord.png",
-    chapter: "",
+    chapter: "CHAPTER 33: Castlevania",
     bio: "",
     legendary: false
   },
@@ -516,7 +516,7 @@ const killers = [
     id: "trueForm",
     name: "True Form",
     image: "images/killers/trueForm.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Dark Lord",
     bio: "",
     legendary: true
   },
@@ -524,7 +524,7 @@ const killers = [
     id: "theHoundmaster",
     name: "The Houndmaster",
     image: "images/killers/theHoundmaster.png",
-    chapter: "",
+    chapter: "CHAPTER 34: Doomed Course",
     bio: "",
     legendary: false
   },
@@ -532,7 +532,7 @@ const killers = [
     id: "theGhoul",
     name: "The Ghoul",
     image: "images/killers/theGhoul.png",
-    chapter: "",
+    chapter: "CHAPTER 35: Tokyo Ghoul",
     bio: "",
     legendary: false
   },
@@ -540,7 +540,7 @@ const killers = [
     id: "rizeKamishiro",
     name: "Rize Kamishiro",
     image: "images/killers/rizeKamishiro.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Ghoul",
     bio: "",
     legendary: true
   },
@@ -548,7 +548,7 @@ const killers = [
     id: "theAnimatronic",
     name: "The Animatronic",
     image: "images/killers/theAnimatronic.png",
-    chapter: "",
+    chapter: "CHAPTER 36: Five Nights at Freddy's",
     bio: "",
     legendary: false
   },
@@ -556,7 +556,7 @@ const killers = [
     id: "yellowRabbit",
     name: "Yellow Rabbit",
     image: "images/killers/yellowRabbit.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Animatronic",
     bio: "",
     legendary: true
   },
@@ -564,7 +564,7 @@ const killers = [
     id: "glitchtrap",
     name: "Glitchtrap",
     image: "images/killers/glitchtrap.png",
-    chapter: "",
+    chapter: "Legendary Outfit for The Animatronic",
     bio: "",
     legendary: true
   },
@@ -572,7 +572,7 @@ const killers = [
     id: "theKrasue",
     name: "The Krasue",
     image: "images/killers/theKrasue.png",
-    chapter: "",
+    chapter: "CHAPTER 37: Sinister Grace",
     bio: "",
     legendary: false
   }
