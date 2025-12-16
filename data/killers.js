@@ -623,10 +623,10 @@ const killers = [
     name: "The Animatronic",
     image: "images/killers/theAnimatronic.png",
     chapter: "CHAPTER 36: Five Nights at Freddy's",
-    bio: "The Animatronic always comes back. His personal Perks, Help WantedI, Phantom Fear, and Haywire, help him compromise Generators, make Survivors scream, and regress Exit Gate Switches.",
+    bio: "The Animatronic always comes back. His personal Perks, Help Wanted, Phantom Fear, and Haywire, help him compromise Generators, make Survivors scream, and regress Exit Gate Switches.",
     legendary: false,
     licensed: true,
-    license: "Five Ngiths at Freddy's"
+    license: "Five Nights at Freddy's"
   },
   {
     id: "yellowRabbit",
@@ -636,7 +636,7 @@ const killers = [
     bio: "William Afton is a very clever and calculated individual. Every outcome of every move he makes is thoroughly thought out and determined. He is careful with his murderous rampages and recalls details about them well. Forever locked in his springlock cage after suffering at the hand of his creations, he wears the suit with pride, always ready to kill again.",
     legendary: true,
     licensed: true,
-    license: "Five Ngiths at Freddy's"
+    license: "Five Nights at Freddy's"
   },
   {
     id: "glitchtrap",
@@ -646,7 +646,7 @@ const killers = [
     bio: "Glitchtrap takes on a twisted form of a Spring Bonnie costume - who is a grinning, bipedal, golden-yellow rabbit. They wear a purple star-speckled vest, a purple bow tie, and two black buttons near the top of their chest. They also have stitches stretching across their waving hand. They initially appear translucent, progressing into a less spectral form over time. Glitchtrap was born when unchecked computer code was put into a game to be reused. Little did they know the Virus had other plans, when the fog swept him up, the Entity birthed him anew, a copy made of flesh.",
     legendary: true,
     licensed: true,
-    license: "Five Ngiths at Freddy's"
+    license: "Five Nights at Freddy's"
   },
   {
     id: "theKrasue",
